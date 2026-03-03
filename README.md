@@ -26,4 +26,4 @@ numpy
 matplotlib
 
 ## Author
-Your Name
+Obi Umeh
