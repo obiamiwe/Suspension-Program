@@ -504,7 +504,7 @@
           <span class="param-name">Bump Height</span>
           <span><span class="param-val" id="val-bump">5</span><span class="param-unit">cm</span></span>
         </div>
-        <input type="range" id="sl-bump" min="1" max="20" value="5" step="0.5"/>
+        <input type="range" id="sl-bump" min="1" max="40" value="5" step="0.5"/>
       </div>
     </div>
 
